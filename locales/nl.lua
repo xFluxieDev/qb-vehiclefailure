@@ -29,7 +29,7 @@ local Translations = {
         ["fix_message_7"] = "Je schreeuwde tegen je auto, en het werkt weer",
     },
     progress = {
-        ["clean_veh"] = "Auto schoonmaken...",
+        ["clean_veh"] = "Auto schoonmaken..",
         ["repair_veh"] = "Voertuig repareren..",
 
     }
